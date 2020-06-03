@@ -1,0 +1,28 @@
+{
+  "name": "nextjs-blog",
+  "version": "1.0.0",
+  "description": "Creating a simple dynmaic blog using Next.js and React from nextjs.org tutorial.",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acarrillo2019/nextjs-blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acarrillo2019/nextjs-blog/issues"
+  },
+  "homepage": "https://github.com/acarrillo2019/nextjs-blog#readme",
+  "dependencies": {
+    "next": "^9.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
